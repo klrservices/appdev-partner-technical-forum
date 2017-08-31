@@ -106,7 +106,7 @@ Set the following properties.
 ![alt text](images/12.deploy.config.png "Deployment Configuration")
 
 - **Configuration Name**: any name to identify deployment configuration
-- **Application Name**: instance name in ACCS. This will determine the application's URL.
+- **Application Name**: instance name in ACCS. This will determine the application's URL. DO NOT include hyphen!
 - **Deployment Target**: click **New** and select Application Container Cloud... and define connection properties such as **Data center**, **Identity Domain** and **credentials**. 
 ![alt text](images/13.accs.config.png "ACCS Configuration")
 - **Type**: select **Automatic** which means auto deploy after a successful execution of the build job. Select your previously created job and its artifact to deploy.
