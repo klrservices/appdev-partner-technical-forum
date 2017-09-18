@@ -1,5 +1,7 @@
 ![](common/paas.summer.camp.png)
 
+This material is a copy of original content for the Cloud Native Application Development track at Oracle Partner PaaS Summer Camps (Lisbon 2017), trimmed down to 2 days. You can find the full content [here](https://github.com/nagypeter/appdev-partner-technical-forum) 
+
 ## Prerequisites
 
 #### Virtualbox VM images
