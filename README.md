@@ -18,7 +18,7 @@ The workshop is intended to work with an Oracle PaaS trial account. Get the foll
 
 ----
 
-| **Wednesday** |  |
+| **Day 1** |  |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00-9:15 | Introduction to workshop |
 | 9:15-10:00 |  Oracle Java Cloud Service |
@@ -32,10 +32,9 @@ The workshop is intended to work with an Oracle PaaS trial account. Get the foll
 | 15:30-16:30 | [Lab 3: Cloud Native Rapid JavaScript Development with Node.js](microservices/CloudNative300.md) |
 | 16:30-17:00 | [Lab 4: Cloud Native Developer Cloud Service Administration](microservices/CloudNative400.md) |
 
-| **Thursday** |  |
+| **Day 2** |  |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 9:00-10:30 | [Lab 5: Deploy SpringBoot demo application to Application Container Cloud Services using Developer Cloud Services]
-|
+| 9:00-10:30 | [Lab 5: Deploy SpringBoot demo application to Application Container Cloud Services using Developer Cloud Services](springboot-sample/README.md)
 | **10:30-10:45** | **Coffee break** |
 | 10:45-11:40 | [Lab 6: Deploy Tomcat based application to Application Container Cloud Service](accs-tomcat/README.md) |
 | 11:40-13:00 | [Lab 7: FixItFast Cloud Native Application which includes multiple Oracle Application Container Cloud Services (Cache, Java, NodeJS)](stack/stack.cache.md) |
