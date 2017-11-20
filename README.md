@@ -6,7 +6,7 @@ This material is a copy of original content for the Cloud Native Application Dev
 
 #### Virtualbox VM images
 
-This workshop requires the [cando.v2.0.ova](https://drive.google.com/open?id=0B0MXC4qaECO6RHBWMEttdW9fOVk) virtualbox image to be downloaded and imported.
+This workshop requires the [cando.v3.1.ova](https://drive.google.com/open?id=0B0MXC4qaECO6M3lxTGZ1RVZjd1k) virtualbox image to be downloaded and imported.
 
 #### Oracle Public Cloud PaaS  account
 
